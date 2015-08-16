@@ -7,6 +7,7 @@ void Strings::show(){
         cout<<st<<endl;
     }
 
+
 void Strings::showVec(){
         using namespace std;
         for(string i: stVec){
