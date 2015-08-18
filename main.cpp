@@ -4,7 +4,9 @@
 //#include "tasks/9.4.h"
 //#include "tasks/10.8.h"
 //#include "tasks/11.7.h"
-#include "tasks/12.4.h"
+//#include "test/inherit.h"
+//#include "tasks/12.4.h"
+//#include "tasks/13.4.h"
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -23,22 +25,9 @@ int main()
 {
     using namespace std;
     // freopen("file", "a+", stdin); REPLACE STDIN WITH FILE
-    string temp = "";
-    //List<int> test(3);
-    //cout<<test;
-    //test[2] = 2;
-    //List<int> test2;
-    //test2 = test;
-    //cout<<test2;
+
     //getline(cin, temp);
     //Strings test(temp);
-    Stack s(5);
-    s.push(1);
-    s.push(2);
-    s.push(3);
-    s.show();
-    Item it;
-    s.pop(it);
-    s.show();
+
     return 0;
 }
