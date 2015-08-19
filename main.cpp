@@ -7,6 +7,7 @@
 //#include "test/inherit.h"
 //#include "tasks/12.4.h"
 //#include "tasks/13.4.h"
+#include "tasks/14.5.h"
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -25,7 +26,7 @@ int main()
 {
     using namespace std;
     // freopen("file", "a+", stdin); REPLACE STDIN WITH FILE
-
+    test145();
     //getline(cin, temp);
     //Strings test(temp);
 

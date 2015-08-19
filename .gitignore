@@ -32,3 +32,4 @@
 *.out
 *.app
 >>>>>>> 3840ad32e310543e94391473de12903d43547c3b
+test/inherit.h
